@@ -1,0 +1,92 @@
+﻿prompt,response
+What is Kunal's full name?,My name is Kunal Sharma. You can check out my portfolio here: Portfolio-> https://66d46dbc12f6c2007a3b1dbc--rad-longma-0f1c7f.netlify.app/
+Where does Kunal study?,University of Guelph 4 th year
+What is Kunal's major?,I'm studying Computer Engineering with a specialization in Machine Learning at the University of Guelph.
+What specialization is Kunal pursuing?,Machine Learning specialization
+What year is Kunal currently in?,4th year
+What scholarship has Kunal received?,University of Guelph Entrance Scholarship (awarded for 90%+ admission average)
+What are Kunalâ€™s favorite courses?,"Machine Learning, Complex Systems, and AI Applications"
+What courses has Kunal taken at the University of Guelph?,"Data Structures, Database Systems, Machine Learning, Engineering Statistics, Complex Systems, LLMs, AI Applications"
+What are Kunalâ€™s academic interests?,"AI/ML, intelligent systems, human-computer interaction, automation, data-driven optimization, and real-time embedded solutions"
+Is Kunal in a co-op program?,"Yes, Kunal is in a co-op program as part of his Computer Engineering degree at the University of Guelph."
+Where has Kunal worked before?,"Kunal has worked at The Co-operators, ThriftyAI, Edana Integrated Marketing, University of Guelph, and the Academy for Mathematics and English."
+What was Kunalâ€™s role at The Co-operators?,"Kunal worked as a Deployment Analyst at The Co-operators, focusing on infrastructure setup and issue resolution."
+What responsibilities did Kunal have as a Deployment Analyst?,"He was responsible for fixing RSOD/BSOD errors, transitioning systems to Autopilot, handling Windows licensing, securing devices with BitLocker, and documenting deployment processes."
+What improvements did Kunal implement at The Co-operators?,"He implemented scalable provisioning scripts, resolved licensing mismatches, and created custom USB deployment tools to streamline rebuilds and reduce manual effort."
+What technologies did Kunal use during his co-op?,"Technologies included Intune, Azure AD, Windows OS, BitLocker, MDT, and PowerShell scripting."
+What did Kunal achieve in terms of deployment speed?,He improved deployment speed by 44% through automation tools and optimized system imaging processes.
+What was Kunalâ€™s role at ThriftyAI?,"At ThriftyAI, Kunal worked as a Data Analyst, supporting real-time analytics and reporting for internal ML models."
+What data analysis tools did Kunal use at ThriftyAI?,"He used Power BI, Python, and SQL for building automated pipelines and dashboards."
+What kind of dashboards did Kunal build?,"Kunal built interactive dashboards in Power BI that visualized model performance, sales trends, and operational KPIs."
+How did Kunal contribute to automation at ThriftyAI?,"Kunal automated routine data workflows at ThriftyAI using Python scripts, reducing manual errors and accelerating reporting cycles."
+What programming languages does Kunal know?,"Kunal is proficient in C/C++, Python, R, SQL, HTML, Shell/Bash, Scheme/Racket, and MIPS."
+What frameworks is Kunal experienced in?,"He has experience with React, Flask, Node.js, Keras, PyTorch, and PyGame."
+What tools and platforms has Kunal used?,"Kunal has used Power BI, Tableau, Excel, Git/GitHub, LaTeX, and tools like Intune, Azure AD, and Windows Debugging utilities."
+What AI/ML libraries does Kunal know?,"He is skilled in TensorFlow, Scikit-learn, PyTorch, Keras, and NumPy/Pandas for AI/ML development."
+Which cloud platforms is Kunal familiar with?,Kunal has worked with both Azure and Google Cloud Platform (GCP).
+What QA/testing skills does Kunal have?,"He has experience in regression testing, GUI testing, device troubleshooting, and creating QA documentation."
+What conceptual knowledge does Kunal have?,"His conceptual knowledge includes Data Structures, Experiment Design, Statistical Models, AI Concepts, Object-Oriented Design, and Cognitive Processes."
+What front-end tools does Kunal use?,"For front-end, Kunal uses React.js, Material-UI, HTML, CSS, and JavaScript."
+What backend tools has Kunal worked with?,"On the backend, he has worked with Flask, Node.js, and SQL-based data management systems."
+What data analytics skills does Kunal possess?,"Kunal is skilled in data cleaning, transformation, ETL automation, KPI analysis, and dashboard design using tools like Power BI, Excel, Python, and SQL."
+What is AgriShield?,AgriShield is an AI-powered drone system designed for early detection of corn disease and precision fungicide spraying.
+What did Kunal do in the AgriShield project?,"In the AgriShield project, Kunal trained a TensorFlow CNN model with 93%+ accuracy, integrated real-time telemetry, optimized the model with TensorFlow Lite, and deployed the end-to-end solution on GCP."
+What is PricePredictor?,PricePredictor is a Flask-based web app that predicts housing prices using machine learning regression models.
+How accurate was PricePredictor?,PricePredictor achieved over 92% accuracy in predicting housing prices.
+What tech stack was used for PricePredictor?,"The tech stack for PricePredictor included Flask, Scikit-learn, NumPy, Pandas, HTML, CSS, JavaScript, GridSearchCV, and K-Fold validation."
+What is FitFusion?,FitFusion is a responsive fitness platform that delivers personalized workout plans by integrating YouTube videos.
+What was Kunalâ€™s role in FitFusion?,"Kunal designed and developed the entire front-end of FitFusion using React.js, Material-UI, and API integrations."
+What APIs did FitFusion use?,FitFusion used the YouTube Data API v3 to fetch and display personalized workout videos.
+What is DataScope?,DataScope is a Power BI dashboard project built to monitor key performance metrics across business operations.
+What insights were gained from the DataScope dashboard?,"The DataScope dashboard enabled real-time trend analysis, energy usage monitoring, and helped stakeholders make data-driven decisions."
+What is SalesInsights?,"SalesInsights is a Tableau dashboard designed to visualize sales trends, product performance, and customer insights."
+What visualization tools did Kunal use for SalesInsights?,"Kunal used Tableau to build SalesInsights, applying various visualization techniques and KPI widgets for clarity and business decision-making."
+What is the Weed Cutter project?,The Weed Cutter project is a mechanical design project where Kunal designed an agricultural tool using CAD.
+What CAD tools did Kunal use?,Kunal used AutoCAD to create the mechanical design for the Weed Cutter project.
+What is the Spider Web Display project?,The Spider Web Display project is an FPGA-based VHDL design that simulates LED-based animations resembling a spider web pattern.
+What 3D modeling tools has Kunal used?,Kunal has used AutoCAD and basic 3D modeling tools for academic hardware design projects.
+What is the Real-Time Traffic Light Controller project?,The Real-Time Traffic Light Controller is an FPGA project where Kunal simulated dynamic traffic flow using finite state machines and VHDL/Verilog.
+How did Kunal use VHDL in the FPGA traffic system?,"Kunal used VHDL to define logic for traffic signal states, enabling adaptive control based on simulated vehicle flow inputs."
+What hardware projects has Kunal worked on?,"Kunal has worked on FPGA traffic systems, LED displays, and drone-based disease detection hardware projects."
+What embedded systems has Kunal developed?,He has developed embedded systems for traffic simulation and integrated sensors with drones for real-time decision-making.
+What machine learning models has Kunal implemented?,"Kunal has implemented CNNs using TensorFlow, regression models using Scikit-learn, and embedded ML models using TensorFlow Lite."
+What AI concepts is Kunal familiar with?,"He is familiar with CNNs, supervised learning, overfitting/underfitting, model tuning, and evaluation metrics like precision, recall, and accuracy."
+What model accuracy did Kunal achieve in AgriShield?,The AgriShield model achieved over 93% accuracy in classifying corn crop health.
+What data preprocessing techniques does Kunal know?,"Kunal uses techniques like normalization, encoding, data cleaning, outlier removal, and feature scaling for preprocessing."
+What experience does Kunal have with TensorFlow?,Kunal has used TensorFlow for training CNNs and deploying optimized models using TensorFlow Lite on mobile/cloud platforms.
+How has Kunal used GridSearchCV?,He used GridSearchCV to fine-tune regression models by exploring hyperparameters for optimal accuracy.
+How has Kunal applied scikit-learn?,Kunal applied Scikit-learn to train regression models in PricePredictor and used it for model evaluation and pipeline integration.
+How has Kunal used real-time data in ML?,Kunal used real-time sensor data from drones to adapt fungicide spraying strategies based on predicted crop health.
+What ML use cases has Kunal explored?,"Kunal has explored use cases including plant disease detection, real estate pricing, workout recommendation engines, and operational dashboards."
+How does Kunal handle data transformation?,"Kunal handles data transformation using Power Query in Power BI, Python scripts with Pandas, and SQL queries for structuring and cleaning raw data."
+What web apps has Kunal developed?,"Kunal has developed web apps like PricePredictor (housing price prediction), FitFusion (fitness video recommender), and a portfolio website showcasing his projects."
+What frameworks has Kunal used for web development?,"He has used Flask, React.js, Node.js, HTML/CSS, and JavaScript as core frameworks for web development."
+What is Kunalâ€™s experience with Flask?,Kunal built and deployed Flask-based apps for ML model inference and data-driven web tools with integrated frontends.
+What is Kunalâ€™s experience with React?,"He designed FitFusion’s interface using React.js and Material-UI, integrating external APIs for dynamic video rendering."
+What has Kunal done with Node.js?,"Kunal has used Node.js for backend experimentation, including route handling and API integration in basic full-stack applications."
+What is Kunalâ€™s experience with Git and GitHub?,"He regularly uses Git for version control and GitHub for collaboration, documentation, and hosting repositories."
+What DevOps tools has Kunal used?,Kunal has experience with provisioning and patching systems using Intune and managing devices via Azure AD—key DevOps tools in enterprise environments.
+How has Kunal used Docker?,He has limited exposure to Docker but understands containerization concepts and plans to integrate it into future deployment pipelines.
+How does Kunal manage APIs?,"Kunal manages APIs using Axios for API calls in React, Postman for testing, and handles API authentication and response handling."
+What UI/UX frameworks does Kunal use?,He uses Material-UI for front-end styling and interface design in React-based projects.
+How has Kunal used Power BI?,"Kunal has created dynamic Power BI dashboards with automated ETL pipelines, slicers, KPIs, and performance metrics."
+What experience does Kunal have with Tableau?,"He has used Tableau to visualize sales data and trends through dashboards like SalesInsights, aiding decision-making through data visuals."
+What does Kunal know about Google Cloud Platform?,"Kunal knows how to deploy models and dashboards using GCP, especially integrating TensorFlow models and telemetry into cloud-hosted apps."
+What does Kunal know about Azure AD and Intune?,"He has used Azure AD and Intune extensively to transition systems from MDT to Autopilot, enforce security policies, and automate provisioning."
+What database tools has Kunal worked with?,"Kunal has worked with SQL Server, used Excel for local databases, and performed data querying and manipulation for dashboards and automation scripts."
+How does Kunal use SQL in his work?,"Kunal uses SQL for querying databases, automating reports, and extracting structured data for use in Power BI dashboards and ML pipelines."
+What scripting languages does Kunal know?,"Kunal knows Python, Shell/Bash, SQL, HTML, and Scheme/Racket for scripting and development."
+What are Kunalâ€™s hardware and soldering skills?,"He has hands-on experience with hardware integration and basic soldering for FPGA boards, sensors, and embedded system prototypes."
+What tools has Kunal used in embedded projects?,"In embedded projects, Kunal has used VHDL/Verilog, FPGA boards, telemetry modules, and real-time sensor integrations."
+What debugging or troubleshooting experience does Kunal have?,"He has debugged RSOD/BSOD issues, resolved licensing conflicts, performed Windows system rebuilds, and created documentation for internal tools."
+Where can I find Kunal’s portfolio?,Kunal’s portfolio is available here: [https://66d46dbc12f6c2007a3b1dbc--rad-longma-0f1c7f.netlify.app/)
+Does Kunal have a GitHub profile?,"Yes, his GitHub profile is: [https://github.com/Kunal7575/)"
+What is the link to Kunal’s website?,His personal website is the same as his portfolio: [https://66d46dbc12f6c2007a3b1dbc--rad-longma-0f1c7f.netlify.app/)
+Can I connect with Kunal on LinkedIn?,You can connect with Kunal on LinkedIn at: [https://www.linkedin.com/in/kunalsharma75/)
+Where can I see Kunal’s past projects online?,Kunal’s project showcase is on his portfolio and GitHub: [[https://github.com/Kunal7575/))
+Where can I access the AgriShield demo?,The live AgriShield demo is hosted at: [https://stalwart-quokka-6ee6d2.netlify.app/)
+Is the FitFusion fitness platform live?,"Yes, FitFusion is live at: [https://64e4dd92d817ab20e7ff524a--superb-strudel-f5d7ed.netlify.app/)"
+Where can I find the source code for PricePredictor?,The source code for PricePredictor can be found on his GitHub or you can try the app at: [https://legendary-melomakarona-3f8ca2.netlify.app/)
+Github for FitFusion,https://github.com/Kunal7575/FitFusion
+Github for PricePredictor-Housing-Analysis,https://github.com/Kunal7575/PricePredictor-Housing-Analysis/tree/master/House%20price
+Github for AgriShield-Plant-Disease-Detection,https://github.com/Kunal7575/AgriShield-Plant-Disease-Detection
